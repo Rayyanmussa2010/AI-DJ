@@ -1,0 +1,33 @@
+.heading{
+width: 100%;
+font-size: 15px;
+padding: 5px;
+margin: 0px;
+}
+
+body{
+background-size: cover;
+}
+
+.speed{
+float: left;
+}
+
+.volume{
+float: right;
+}
+
+.speed_image{
+width: 200px;
+border-radius: 100px;
+}
+
+.volume_image{
+width: 200px;
+border-radius: 100px;
+}
+
+canvas{
+border: 5px solid, white;
+border-radius: 20px;
+}
